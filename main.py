@@ -55,7 +55,7 @@ def add_time(start, duration, start_day=None):
 
     return new_time
 
-
+# tests
 print(add_time('3:30 PM', '2:12'))
 print(add_time('11:55 AM', '3:12'))
 print(add_time('2:59 AM', '24:00'))
